@@ -28,4 +28,5 @@ Planteamiento de estructura
 * (Tomate-Vid-Residuos) Sistema de Gestión Integral de Residuos Sólidos Urbanos para el Área Metropolitana de Mendoza
 * Infraestructura Midstream (Oleoductos y Logística de Exportación)
 * Planta de procesamiento de concentrado de cobre (Proyecto Josemaría o Los Azules) o la logística de exportación desde San Juan hasta los puertos
-* Tinder de Cargas   
+* Tinder de Cargas
+* IA y entradas (filas)   
