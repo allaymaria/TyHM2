@@ -22,11 +22,7 @@ Planteamiento de estructura
 
 # Ideas
 * Optimización del uso de agua en Mendoza (referido a la industria minera)
-* Economía circular aplicada a la industria
-* Optimización de la logística
 * Reducción del uso de gas, reemplazos
 * (Tomate-Vid-Residuos) Sistema de Gestión Integral de Residuos Sólidos Urbanos para el Área Metropolitana de Mendoza
-* Infraestructura Midstream (Oleoductos y Logística de Exportación)
-* Planta de procesamiento de concentrado de cobre (Proyecto Josemaría o Los Azules) o la logística de exportación desde San Juan hasta los puertos
 * Tinder de Cargas
 * IA y entradas (filas)   
