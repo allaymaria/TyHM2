@@ -26,7 +26,7 @@ Planteamiento de estructura
 * (Tomate-Vid-Residuos) Sistema de Gestión Integral de Residuos Sólidos Urbanos para el Área Metropolitana de Mendoza
 * Tinder de Cargas
 * IA y entradas (filas)
-* Pellets de Biomasa Mixtos (Vid + Tomate) :tomato: + :grapes: = :fire:  
+* Pellets de Biomasa Mixtos (Vid + Tomate) :tomato: + :grapes: = :herb: :  
 
 
 ## NICOLÁS:
@@ -34,26 +34,31 @@ Planteamiento de estructura
 ## <u>Pellets de Biomasa Mixtos (Vid + Tomate): Energía Renovable para Mendoza</u>
 
 <p align="center">
-  <img width="300" height="200" alt="Pellets Mixtos de Biomasa" src="https://github.com/user-attachments/assets/fe008456-8940-42b9-9a1e-c5a2b1853f57" />
+  <img width="300" height="200" alt="Pellets de Biomasa Mixtos como Fertilizante" src="https://github.com/user-attachments/assets/9918357a-0fa7-48f6-ae09-23828c027522" />
   <br />
   <sub><em>Pellets Mixtos de Biomasa</em></sub>
 </p>
 
 # <u>El Problema<u>
-Las bodegas y conserveras de Mendoza generan miles de toneladas de escobajo de uva y descarte de tomate, pagando altos costos para desecharlos como basura. Al mismo tiempo, estas mismas industrias pagan fortunas en tarifas de gas para alimentar sus calderas.
+Las bodegas y conserveras de Mendoza generan miles de toneladas de escobajo de uva y descarte de tomate, pagando altos costos para desecharlos como basura. Al mismo tiempo, los suelos agrícolas de la región sufren una severa falta de materia orgánica y baja retención de agua, lo que obliga a los productores a gastar fortunas en fertilizantes sintéticos importados y abonos químicos.
+
+# <u>Podría funcionar así:<u>
+
+Residuos (escobajo + tomate) → recolección y acopio → secado → molienda → peletización → empaque → aplicación agrícola
 
 # <u>La Solución<u>
-Una planta peletizadora que combina ambos residuos para fabricar pellets de biomasa:
 
--El escobajo da dureza y fibra al pellet.
+Diseñar una planta de procesamiento y peletización que transforme la mezcla de escobajo de uva y residuo de tomate en un pellet orgánico fertilizante y acondicionador de suelos.
 
--El tomate le da más potencia de fuego por los aceites de sus semillas.
+-El escobajo aporta fibra, carbono y estructura de liberación lenta para el suelo.
 
--Se queman en calderas de biomasa para reemplazar el gas directamente.
+-El tomate aporta Nitrógeno, Fósforo, Potasio ($NPK$) y nutrientes concentrados.
+
+-Se aplican directamente en las hileras de cultivos y viñedos con maquinaria agrícola estándar, disolviéndose gradualmente con el riego.
 
  # <u>Beneficios<u>
--Económico: Baja drásticamente el costo de energía usando materia prima local barata.
+-Económico: Genera un insumo agrícola local de menor costo que los fertilizantes químicos importados.
 
--Ambiental: Elimina basurales orgánicos y reduce la huella de carbono (Economía Circular).
+-Agronómico: Aumenta la retención de agua en el suelo (clave para la escasez hídrica) y restituye la fertilidad natural de la tierra.
 
--Estratégico: Une a las dos industrias más grandes de Mendoza en un modelo sustentable y rentable.
+-Ambiental y Logístico: Elimina basurales orgánicos (Economía Circular) y facilita el transporte/aplicación del abono al estar comprimido en pellets sin generar olor ni polvo.
