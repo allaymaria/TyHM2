@@ -62,3 +62,19 @@ Diseñar una planta de procesamiento y peletización que transforme la mezcla de
 -Agronómico: Aumenta la retención de agua en el suelo (clave para la escasez hídrica) y restituye la fertilidad natural de la tierra.
 
 -Ambiental y Logístico: Elimina basurales orgánicos (Economía Circular) y facilita el transporte/aplicación del abono al estar comprimido en pellets sin generar olor ni polvo.
+
+ # <u>A determinar<u>
+ 
+Evaluar la viabilidad de una planta para convertir residuos en un fertilizante peletizado rentable que reemplace insumos sintéticos.
+
+-Mezcla óptima: porcentaje de escobajo (fibra/estructura) y tomate (nutrientes) para un pellet de alta calidad
+
+-Maquinaria y proceso: selección del secador, molinos, peletizadora y empaquetadora.
+
+-Localización y logística: ubicación estratégica de la planta para minimizar fletes desde bodegas y conserveras.
+
+-Análisis económico: inversión, costo por tonelada,precio de venta y tiempo de retorno.
+
+-Impacto ambiental: residuos recuperados y mejora en la retención de agua de los suelos.
+
+ 
