@@ -27,4 +27,12 @@ Formulación de instrucciones que produce respuestas más útiles.
 5. Producto a obtener: Indicar el resultado concreto de la consulta.
 6. Formato de salida: Especificar como debe presentarse la respuesta. Darle ejemplos, referencias.
 
+**Para imágenes:**
+* Objetivo o Escena
+* Acción o Situación
+* Contexto o Entorno
+* Atributos Visuales
+* Estilo Visual
+* Composición
+
 
