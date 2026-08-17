@@ -22,10 +22,7 @@ Planteamiento de estructura
 
 # Ideas
 * Optimización del uso de agua en Mendoza (referido a la industria minera)
-* Reducción del uso de gas, reemplazos
-* (Tomate-Vid-Residuos) Sistema de Gestión Integral de Residuos Sólidos Urbanos para el Área Metropolitana de Mendoza
 * Tinder de Cargas
-* IA y entradas (filas)
 * Pellets de Biomasa Mixtos (Vid + Tomate) :tomato: + :grapes: = :herb: :  
 
 
