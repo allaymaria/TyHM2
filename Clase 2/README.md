@@ -34,5 +34,13 @@ Formulación de instrucciones que produce respuestas más útiles.
 * Atributos Visuales
 * Estilo Visual
 * Composición
+---------------------------------
+# <u>TRABAJO PRÁCTICO N°1:<u>  Selección y Evaluación de Factibilidad del TFC con Gemini Notebook
 
+**Actividad 1:** Ingesta de Fuentes y Creación del Cuaderno de Investigación 
+Se incorporan fuentes primarias/secundarias para cada tema propuesto.
+Los temas propuestos son:  
 
+* Pellets de Biomasa Mixtos como fertilizante
+* Nube logística de cargas
+* Optimización Hidrica Minera Mendoza
