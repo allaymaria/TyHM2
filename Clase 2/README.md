@@ -37,10 +37,11 @@ Formulación de instrucciones que produce respuestas más útiles.
 ---------------------------------
 # <u>TRABAJO PRÁCTICO N°1:<u>  Selección y Evaluación de Factibilidad del TFC con Gemini Notebook
 
-**Actividad 1:** Ingesta de Fuentes y Creación del Cuaderno de Investigación 
-Se incorporan fuentes primarias/secundarias para cada tema propuesto.
-Los temas propuestos son:  
+Tema elegido:Pellets de Biomasa Mixtos como fertilizante
 
-* Pellets de Biomasa Mixtos como fertilizante
-* Nube logística de cargas
-* Optimización Hidrica Minera Mendoza
+Link a Gemini Notebook: https://notebook.google.com/notebook/369b2340-8493-4327-87b3-d4b2dcb5c2b1
+
+Link a drive informe: https://docs.google.com/document/d/1BVMNkAZpg1KXMMnJif_5F2o6qgVeGHtigqUSLsVtfko/edit?tab=t.0
+
+  
+ 
