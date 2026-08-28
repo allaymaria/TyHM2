@@ -1,2 +1,2 @@
 
-Trabajamos con TIR y VAn
+Trabajamos con TIR y VAN
