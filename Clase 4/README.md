@@ -6,5 +6,5 @@ Trabajamos con TIR y VAN, Murfy.
 * Topsis
 * Eletre Tree
 * Promethee-GAIA
-* AHP
+* AHP: Compara los criterios entre sí, donde la matriz tiene una diagonal de unos.
 * MAUT
