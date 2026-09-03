@@ -1,5 +1,5 @@
 
-Trabajamos con TIR y VAN, Murfy.
+Trabajamos con TIR y VAN, matriz de decisión de Murphy.
 
 # Criterios
 * Factores Ponderales
