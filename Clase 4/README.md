@@ -1,5 +1,6 @@
+# 📚 Clase 4: Métodos Multicriterio de Decisión (MCDM) y LaTeX
 
-Trabajamos con TIR y VAN, matriz de decisión de Murfy.
+Repositorio correspondiente a la **Clase 4**, orientado a la resolución paso a paso de Métodos Multicriterio de Decisión (TOPSIS, ELECTRE, PROMETHEE, AHP, MAUT) en RMarkdown mediante **Posit Cloud**, así como a la diagramación e integración de documentos técnicos avanzados en **LaTeX**.
 
 # Criterios
 * Factores Ponderales
@@ -8,11 +9,6 @@ Trabajamos con TIR y VAN, matriz de decisión de Murfy.
 * Promethee-GAIA
 * AHP: Compara los criterios entre sí, donde la matriz tiene una diagonal de unos.
 * MAUT
-
-
-# 📚 Clase 4: Métodos Multicriterio de Decisión (MCDM) y LaTeX
-
-Repositorio correspondiente a la **Clase 4**, orientado a la resolución paso a paso de Métodos Multicriterio de Decisión (TOPSIS, ELECTRE, PROMETHEE, AHP, MAUT) en RMarkdown mediante **Posit Cloud**, así como a la diagramación e integración de documentos técnicos avanzados en **LaTeX**.
 
 ---
 
