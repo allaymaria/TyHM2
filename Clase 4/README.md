@@ -28,16 +28,3 @@ A continuación se detallan los recursos disponibles en este módulo junto con s
 
 * **RMarkdown / R** (Posit Cloud): Implementación algorítmica y procesamiento matricial.
 * **LaTeX**: Tipografía y diagramación técnica de tablas, matrices y ecuaciones algebraicas.
-
----
-
-## 📂 Estructura del Repositorio
-
-```text
-.
-├── 12345678_Posit_Cloud.zip   # Proyecto completo de Posit Cloud (Métodos MCDM)
-├── Matrices_de_decision.pdf   # Documento compilado de criterios y matrices
-├── Matrices_de_decision.zip   # Código fuente en LaTeX del documento de matrices
-├── Tabla_Horizontal.pdf       # Solución del ejercicio de tablas en LaTeX
-├── tabla.zip                  # Código fuente en LaTeX del ejercicio de tablas
-└── README.md                  # Índice interactivo del repositorio
