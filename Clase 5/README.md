@@ -19,4 +19,4 @@ La regla de los tercios es una técnica de composición visual que divide una im
 ### Próxima Clase
 Descargar en el celular una aplicación que actúe como cámara profesional.
 
-Hacer fotos a distintos elementos con distintos problemas, en las fotografías debe notarse el o los problemas, por la fotografía uno debería poder ver los detalles, cambios de color, forma en que rompió, forma general. Realizar un informe de lo que les sucedió colocando las fotografías.
+Hacer fotos a distintos elementos con distintos problemas, en las fotografías debe notarse el o los problemas, por la fotografía uno debería poder ver los detalles, cambios de color, forma en que rompió, forma general. Realizar un informe (5 líneas apox, no extenderse demasiado) de lo que les sucedió colocando las fotografías.
