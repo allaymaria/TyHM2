@@ -8,3 +8,7 @@ Cada una diferenciada por lo que se necesita para tomar una buena foto.
 * Retrato
 * Nocturna (Fuegos Artificiales)
 * Comida
+
+## Problemas
+* Aberración cromática
+* Difracción
