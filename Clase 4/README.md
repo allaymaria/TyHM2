@@ -18,7 +18,7 @@ A continuación se detallan los recursos disponibles en este módulo junto con s
 
 | Recurso / Contenido | PDF | Proyecto Completo (.zip) | Descripción |
 | :--- | :---: | :---: | :--- |
-| **Códigos de Métodos MCDM** | - | 📦 [Descargar Proyecto Posit Cloud (.zip)](./12345678_Posit_Cloud.zip](https://github.com/allaymaria/TyHM2/raw/refs/heads/main/Clase%204/12887995.zip)) | Implementación paso a paso de **TOPSIS, ELECTRE I, PROMETHEE, AHP y MAUT** en Posit Cloud. |
+| **Códigos de Métodos MCDM** | - | 📦 [Descargar Proyecto Posit Cloud (.zip)](./12887995.zip) | Implementación paso a paso de **TOPSIS, ELECTRE I, PROMETHEE, AHP y MAUT** en Posit Cloud. |
 | **Matrices de Decisión** | 📄 [Ver Documento PDF](./Matrices_de_decision.pdf) | 📦 [Descargar Código LaTeX (.zip)](./Matrices_de_decision.zip](https://github.com/allaymaria/TyHM2/raw/refs/heads/main/Clase%204/MATRICES%20DE%20DECISI%C3%93N.zip)) | Explicación teórica de los criterios y desarrollo matricial redactado en LaTeX. |
 | **Ejercicio Tabla Horizontal** | 📄 [Ver Documento PDF](./tabla.pdf) | 📦 [Descargar Código LaTeX (.zip)]([./tabla.zip](https://github.com/allaymaria/TyHM2/raw/refs/heads/main/Clase%204/Tabla.zip)) | Ejercicio propuesto: Formateo de tabla grande horizontal en LaTeX con encabezado ajustado al margen interno según la página. |
 
