@@ -2,7 +2,7 @@
 
 Repositorio correspondiente a la **Clase 4**, orientado a la resolución paso a paso de Métodos Multicriterio de Decisión (TOPSIS, ELECTRE, PROMETHEE, AHP, MAUT) en RMarkdown mediante **Posit Cloud**, así como a la diagramación e integración de documentos técnicos avanzados en **LaTeX**.
 
-# Criterios
+### Criterios
 * Factores Ponderales
 * Topsis
 * Electre Tree
