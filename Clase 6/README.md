@@ -15,5 +15,8 @@ Buscar en internet sitios para realizar el AHP/Saaty online
 
 https://comcastsamples.github.io/ahp-tool/
 
+## EXIF
+Analizamos fotos y vemos los metadatos.
+
 ## Consigna
 Sacar fotos a lugares, caminos, que creamos es posible que se lleguen a inundar.
