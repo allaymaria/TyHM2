@@ -24,3 +24,6 @@ https://comcastsamples.github.io/ahp-tool/
 
 ## Consigna
 Sacar fotos a lugares, caminos, que creamos es posible que se lleguen a inundar.
+
+## Consigna
+Descargar e instalar QGIS.
