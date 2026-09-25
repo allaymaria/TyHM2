@@ -9,3 +9,5 @@
 Sistema: base de datos
 
 Descarga: https://qgis.org/
+
+Para hacer: buscar imagen satelital para el proyecto
