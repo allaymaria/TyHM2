@@ -39,7 +39,7 @@ Para el desarrollo interactivo y cálculo de matrices, utilizamos la plataforma 
 ### 📁 Evidencias del Método AHP
 > 📌 **Capturas de Pantalla:**  
 > Puedes descargar el archivo ejecutable/ZIP con las capturas de pantalla del sitio donde se realizó el proceso AHP desde el siguiente enlace:  
-> 📥 [**Descargar Capturas AHP (ZIP)**](URL_DE_TU_ARCHIVO_AQUI.zip)
+> 📥 [**Descargar Capturas AHP (ZIP)**](https://github.com/allaymaria/TyHM2/blob/main/Clase%206/AHP.zip)
 
 ---
 
