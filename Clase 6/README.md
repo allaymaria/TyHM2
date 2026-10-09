@@ -28,14 +28,7 @@ Sacar fotos a lugares, caminos, que creamos es posible que se lleguen a inundar.
 ## Consigna
 Descargar e instalar QGIS.
 
----
-title: "Clase 6: Método de Decisión AHP y Metadatos de Fotografías"
-output:
-  html_document:
-    theme: readable
-    toc: true
-    toc_float: true
----
+
 
 # 📚 Clase 6: Método de Decisión AHP y Metadatos de Fotografías
 
