@@ -32,7 +32,7 @@ Integrantes:
 |---------------------------|-----------------------|
 ||<>|
 ||<>|
-|Nancy Sara|<https://github.com/nancy-sara/TyHMII-Modulo5>|
+|Nancy Sara|<https://github.com/nancy-sara/TyHMII-Modulo4>|
 ||<>|
 
 ## Modulo 5: Dinámica de Sistemas
@@ -41,5 +41,5 @@ Integrantes:
 |---------------------------|-----------------------|
 ||<>|
 ||<>|
-|Nancy Sara|<https://github.com/nancy-sara/TyHMII-Modulo1>|
+|Nancy Sara|<https://github.com/nancy-sara/TyHMII-Modulo5>|
 ||<>|
