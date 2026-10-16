@@ -31,9 +31,6 @@ Integrantes:
 |**Clase**|**Links de GitHub**|
 |---------------------------|-----------------------|
 ||<>|
-||<>|
-||<>|
-||<>|
 
 ## Modulo 5: Dinámica de Sistemas
 |**Clase**|**Links de GitHub**|
