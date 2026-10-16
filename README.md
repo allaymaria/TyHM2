@@ -9,10 +9,9 @@ Integrantes:
 ## Modulo 1: Toma de Decisiones
 |**Clase**|**Links de GitHub**|
 |---------------------------|-----------------------|
-||<>|
-||<>|
-||<>|
-||<>|
+|1|<https://github.com/allaymaria/TyHM2/tree/main/Clase%201>|
+|4|<https://github.com/allaymaria/TyHM2/tree/main/Clase%204>|
+|6|<https://github.com/allaymaria/TyHM2/tree/main/Clase%206>|
 
 ## Modulo 2: Asistente de  Redacción con IA para planes y proyectos. Taller complementario fotografía forense digital.
 |**Clase**|**Links de GitHub**|
