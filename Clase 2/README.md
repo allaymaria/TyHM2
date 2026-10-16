@@ -1,47 +1,63 @@
-# IA Generativa
+# 📚 Clase 2: IA Generativa
 
-Profesora: Ing. Selva S. Rivera
+**Profesora:** Ing. Selva S. Rivera  
+**Herramienta principal:** NotebookLM  
 
-Herramienta: NotebookLM
+---
 
-**¿Qué es la Inteligencia Artificial?**
+## 🤖 ¿Qué es la Inteligencia Artificial?
 
-Algoritmos que procesan datos. Ocurre un procedimiento estocástico avanzado que opera en un espacio vectorial de alta dimensión. Obtenemos resultados probabilísticos.
-1. *Tokenización:* la discretización del lenguaje. Muestreo y Cuantización. Word gasta muchos tokens, por los códigos ocultos que también lee. El lenguaje que menos tokens gasta es el Markdown.
-2. *Embeddings:* el espacio vectorial. Cada token  se convierte en un vector. El transformer no lee en forma secuencial, sino que relaciona todo en conjunto.
-3. *Generación:* el proceso estocástico. Un calculo de probabilidades para predecir los próximos tokens. Al aumentar una variable T llamada temperatura del calculo de probabilidad se puede alejar de nuestra respuesta o acercarse, aumentamos el rango en lo que busca. Le da probabilidades a todos los tokens y hace un ranking, y de todas las posibilidades una vez devuelve una y la siguiente otra.
+La Inteligencia Artificial opera mediante algoritmos que procesan grandes volúmenes de datos a través de un **procedimiento estocástico avanzado en un espacio vectorial de alta dimensión**, generando así resultados probabilísticos.
 
-Red neuronal Transformer. 
+### ⚙️ Proceso de Funcionamiento:
 
-**¿Cómo utilizarla?**
-* Es importante el prompt.
-* No colocar "Por favor" si queremos respuestas más técnicas.
-* La decisión final sigue siendo humana.
+1. **Tokenización (Discretización del Lenguaje):**
+   * Proceso de muestreo y cuantización del texto.
+   * *Nota:* Archivos como Microsoft Word consumen más tokens debido a los códigos de formato ocultos que contienen. El formato **Markdown** es el que menor consumo de tokens requiere.
 
-## Prompt
-Formulación de instrucciones que produce respuestas más útiles.
-1. Rol esperado: Desde que perspectiva debe responder la herramienta.
-2. Objetivo.
-3. Datos disponibles: Ser exacto, especificaciones, información técnica que necesita conocer la herramienta.
-4. Restricciones: Límites o condiciones.
-5. Producto a obtener: Indicar el resultado concreto de la consulta.
-6. Formato de salida: Especificar como debe presentarse la respuesta. Darle ejemplos, referencias.
+2. **Embeddings (Espacio Vectorial):**
+   * Cada token se convierte en un vector denso.
+   * La arquitectura **Transformer** no lee el texto de forma secuencial, sino que procesa y relaciona todo el contexto de manera conjunta.
 
-**Para imágenes:**
-* Objetivo o Escena
-* Acción o Situación
-* Contexto o Entorno
-* Atributos Visuales
-* Estilo Visual
-* Composición
----------------------------------
-# <u>TRABAJO PRÁCTICO N°1:<u>  Selección y Evaluación de Factibilidad del TFC con Gemini Notebook
+3. **Generación (Proceso Estocástico):**
+   * Cálculo de probabilidades para predecir el token siguiente.
+   * **Temperatura ($T$):** Al aumentar la temperatura en el cálculo, la búsqueda se expande a un rango mayor de posibilidades, permitiendo respuestas más creativas o variadas. La IA asigna probabilidades, genera un ranking y selecciona resultados bajo esa distribución.
 
-Tema elegido:Pellets de Biomasa Mixtos como fertilizante
+---
 
-Link a Gemini Notebook: https://notebook.google.com/notebook/369b2340-8493-4327-87b3-d4b2dcb5c2b1
+## 💡 ¿Cómo utilizar la IA Generativa?
 
-Link a drive informe: https://docs.google.com/document/d/1BVMNkAZpg1KXMMnJif_5F2o6qgVeGHtigqUSLsVtfko/edit?tab=t.0
+* **Ponderación del Prompt:** La precisión y estructura de la instrucción condicionan la calidad de la respuesta.
+* **Tono y Lenguaje:** Evitar muletillas como *"Por favor"* si se buscan respuestas estrictamente técnicas y directas.
+* **Criterio Humano:** La decisión final y la validación del contenido siguen siendo responsabilidad del usuario.
 
-  
+---
+
+## 📝 Estructura de un Prompt Eficiente
+
+### 1. Para Texto e Instrucciones:
+* **Rol esperado:** Desde qué perspectiva o perfil debe responder la herramienta.
+* **Objetivo:** Declaración clara del propósito de la consulta.
+* **Datos disponibles:** Información exacta, especificaciones y contexto técnico necesario.
+* **Restricciones:** Límites, reglas o condiciones del alcance.
+* **Producto a obtener:** Resultado concreto esperado.
+* **Formato de salida:** Forma de presentación (ejemplos, listas, tablas, referencias).
+
+### 2. Para Generación de Imágenes:
+* **Objetivo o Escena:** Sujeto principal de la imagen.
+* **Acción o Situación:** Qué está sucediendo en la imagen.
+* **Contexto o Entorno:** Fondo, iluminación o lugar.
+* **Atributos Visuales:** Detalles, colores, texturas.
+* **Estilo Visual:** Fotográfico, ilustración 3D, óleo, etc.
+* **Composición:** Ángulo de cámara, encuadre, plano.
+
+---
+
+## 📄 TRABAJO PRÁCTICO N°1: Selección y Evaluación de Factibilidad del TFC con Gemini Notebook
+
+* **Tema elegido:** Pellets de Biomasa Mixtos como fertilizante
+
+### 🔗 Enlaces del Proyecto:
+* 📓 [**Gemini Notebook del Proyecto**](https://notebook.google.com/notebook/369b2340-8493-4327-87b3-d4b2dcb5c2b1)
+* 📄 [**Informe en Google Drive**](https://docs.google.com/document/d/1BVMNkAZpg1KXMMnJif_5F2o6qgVeGHtigqUSLsVtfko/edit?tab=t.0)
  
