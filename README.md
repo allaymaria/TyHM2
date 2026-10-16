@@ -2,10 +2,10 @@
 Integrantes:
 |**Nombre**|**Links de Repositorios Individuales**|
 |---------------------------|-----------------------|
-||<>|
-||<>|
+|María Allay|<>|
+|Emiliano Jaime|<>|
 |Nancy Sara|<https://github.com/nancy-sara/TyHMII-Modulo1-2-3-4-5>|
-||<>|
+|Nicolás La Rocca|<>|
 ## Modulo 1: Toma de Decisiones
 |**Clase**|**Links de GitHub**|
 |---------------------------|-----------------------|
