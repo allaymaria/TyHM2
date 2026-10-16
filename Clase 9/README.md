@@ -11,9 +11,12 @@ Dinámica de sistemas (creada por Jay W. Forrester en el MIT a mediados de la d�
 * Work force
 * Productividad
 * Layout
-* Q: producción
+* Q: producción (por ejemplo: Bodega -> Cantidad de botellas al año; Transporte -> Cantidad de pasajeros al día)
 
 **Fuera del Cuadrado**
 * Impuestos
 * Escolaridad
 * Pancho-Buffet
+
+
+## Vensim PLE
