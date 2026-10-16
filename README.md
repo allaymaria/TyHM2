@@ -4,7 +4,7 @@ Integrantes:
 |---------------------------|-----------------------|
 ||<>|
 ||<>|
-|Nancy Sara|<https://github.com/nancy-sara/TyHMII-Modulo1>|
+|Nancy Sara|<https://github.com/nancy-sara/TyHMII-Modulo1-2-3-4-5>|
 ||<>|
 ## Modulo 1: Toma de Decisiones
 |**Clase**|**Links de GitHub**|
