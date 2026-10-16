@@ -1,12 +1,3 @@
----
-title: "Clase 1: Proyectos"
-output:
-  html_document:
-    theme: readable
-    toc: true
-    toc_float: true
----
-
 # 📚 Clase 1: Proyectos
 
 ---
