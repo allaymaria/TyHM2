@@ -11,6 +11,7 @@ Dinámica de sistemas (creada por Jay W. Forrester en el MIT a mediados de la d�
 * Work force
 * Productividad
 * Layout
+* Q: producción
 
 **Fuera del Cuadrado**
 * Impuestos
