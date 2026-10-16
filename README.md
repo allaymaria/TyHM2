@@ -7,7 +7,6 @@ Integrantes:
 |Nancy Sara|<https://github.com/nancy-sara/TyHMII-Modulo1>|
 ||<>|
 ## Modulo 1: Toma de Decisiones
-Integrantes:
 |**Clase**|**Links de GitHub**|
 |---------------------------|-----------------------|
 ||<>|
