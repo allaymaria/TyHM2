@@ -18,14 +18,12 @@ Integrantes:
 |---------------------------|-----------------------|
 |2|<https://github.com/allaymaria/TyHM2/tree/main/Clase%202>|
 |3|<https://github.com/allaymaria/TyHM2/tree/main/Clase%203>|
-|5|<https://github.com/allaymaria/TyHM2/tree/main/Clase%205>|
-|6|<https://github.com/allaymaria/TyHM2/tree/main/Clase%206>|
 
 ## Modulo 3: Taller complementario fotografía forense digital
 |**Clase**|**Links de GitHub**|
 |---------------------------|-----------------------|
-||<>|
-||<>|
+|5|<https://github.com/allaymaria/TyHM2/tree/main/Clase%205>|
+|6|<https://github.com/allaymaria/TyHM2/tree/main/Clase%206>|
 
 ## Modulo 4: SIG Sistemas de Información Geográfico
 |**Clase**|**Links de GitHub**|
