@@ -19,3 +19,5 @@ Startups // Bootstrapping
 Interdisciplinidad.
 
 Cuarta Revolución Industrial: Industria 4.0
+
+Investigación de Operaciones.
