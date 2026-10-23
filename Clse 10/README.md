@@ -14,6 +14,4 @@ MITMediaLab: Lugar interdisciplinar.
 
 Nicolás Negroponte - Ser Digital (libro)
 
-Startups
-
-Bootstrapping
+Startups // Bootstrapping
