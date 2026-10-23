@@ -34,4 +34,4 @@ En esta clase se realizó una **puesta en común interactiva** de las distintas 
 ---
 
 ### 🔗 Enlaces del Proyecto:
-* 📥 [**Descargar Borrador del Proyecto en formato LaTeX (.zip)**](https://github.com/allaymaria/TyHM2/raw/main/Clase%202/TP1.zip)
+* 📥 [**Descargar Borrador del Proyecto en formato LaTeX (.zip)**](https://github.com/allaymaria/TyHM2/raw/main/Clase%203/BorradorProyecto.zip)
