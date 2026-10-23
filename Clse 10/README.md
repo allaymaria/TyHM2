@@ -18,4 +18,4 @@ Startups // Bootstrapping
 
 Interdisciplinidad.
 
-Cuarta Revolución Industrial: IA
+Cuarta Revolución Industrial: Industria 4.0
