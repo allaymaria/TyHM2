@@ -26,7 +26,7 @@ Investigación de Operaciones.
 
 Raw Maps: Manejo del MTI para todas las cátedras.
 
-_Generic Structures in Oscillating Systems I / II_
+_Generic Structures in Oscillating Systems II_
 
 Actividad para la próxima clase: Resumen con PPT. 
 
