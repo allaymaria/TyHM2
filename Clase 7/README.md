@@ -16,6 +16,7 @@ Durante esta clase se llevaron a cabo dos presentaciones sobre experiencias inte
 
 * **Consigna:** Redactar **dos monografías breves** (de 1 a 2 páginas/caras cada una) sobre las exposiciones presentadas en la primera parte de la clase:
   * *Monografía 1:* Análisis y reflexión sobre la industria del cobre en Nigeria.
+    * 📷 [Ver registro / imagen de la monografía de Cobre en Nigeria](https://github.com/allaymaria/TyHM2/raw/main/Clase%207/CobreNigeria.jpg)
   * *Monografía 2:* Informe y balance del programa de intercambio en Austria.
 
 ---
