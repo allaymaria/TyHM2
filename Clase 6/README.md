@@ -53,7 +53,7 @@ Para el desarrollo interactivo y cálculo de matrices, utilizamos la plataforma 
 ---
 
 ## 📝 Actividades para la Próxima Clase
-1. **Relevamiento Fotográfico de Campo**
-* Tomar fotografías en zonas, caminos o infraestructura propensas a eventuales problemas de **inundación**.
-2. **Configuración de Software SIG**
-* Descargar e instalar **QGIS** en el equipo de trabajo.
+1. **Relevamiento Fotográfico de Campo:**
+  * Tomar fotografías en zonas, caminos o infraestructura propensas a eventuales problemas de **inundación**.
+2. **Configuración de Software SIG:**
+  * Descargar e instalar **QGIS** en el equipo de trabajo.
