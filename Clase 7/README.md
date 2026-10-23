@@ -31,7 +31,6 @@ Un **Sistema de Información Geográfica** es una infraestructura de **base de d
 
 ---
 
-## 🎯 Tarea para el Proyecto
-
+## 📝 Actividad: QGIS
 1. **Obtención de Información Satelital:**
    * Buscar y descargar una imagen satelital/raster de la zona de estudio asignada a cada proyecto para integrar al entorno QGIS.
