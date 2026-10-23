@@ -1,4 +1,4 @@
-Charla de una trabajadora de Conicet, trabaja en investigación.
+Charla de una trabajadora de Conicet, trabaja en investigación. Tesis doctoral: Contingencia-Redes de Geometría Variable.
 
 ¿Emprender o Investigar? 
 
@@ -13,3 +13,4 @@ Si queres empezar a investigar comenzas con un problema fácil a solucionar y es
 MITMediaLab: Lugar interdisciplinar.
 
 Nicolás Negroponte - Ser Digital (libro)
+
