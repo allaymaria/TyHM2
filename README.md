@@ -35,4 +35,4 @@ Integrantes:
 |**Clase**|**Links de GitHub**|
 |---------------------------|-----------------------|
 |9|<https://github.com/allaymaria/TyHM2/tree/main/Clase%209>|
-|10|<>|
+|10|<https://github.com/allaymaria/TyHM2/tree/main/Clse%2010>|
