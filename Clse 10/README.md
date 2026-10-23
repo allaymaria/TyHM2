@@ -21,3 +21,13 @@ Interdisciplinidad.
 Cuarta Revolución Industrial: Industria 4.0
 
 Investigación de Operaciones.
+
+---
+
+Raw Maps: Manejo del MTI para todas las cátedras.
+
+_Generic Structures in Oscillating Systems I / II_
+
+Actividad para la próxima clase: Resumen con PPT. 
+
+.mdl: Archivo model, es un archivo de texto.
