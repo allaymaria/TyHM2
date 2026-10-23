@@ -49,5 +49,6 @@ Cada tipo de fotografía se diferencia por los requerimientos técnicos y la con
 
 ---
 
-- [📄 Relevamiento Fotográfico del Campus Universitario (PDF)](https://github.com/allaymaria/TyHM2/raw/main/Clase%205/Relevamiento%20Fotogr%C3%A1fico%20del%20Campus%20Universitario.pdf)
-- [📄 Historia de distintos Elementos y Guía de Fotografía (PDF)](https://github.com/allaymaria/TyHM2/raw/main/Clase%205/Historia%20de%20distintos%20Elementos.pdf)
+### 🔗 Enlaces:
+- 📄 [**Relevamiento Fotográfico del Campus Universitario (PDF)**](https://github.com/allaymaria/TyHM2/raw/main/Clase%205/Relevamiento%20Fotogr%C3%A1fico%20del%20Campus%20Universitario.pdf)
+- 📄 [**Historia de distintos Elementos y Guía de Fotografía (PDF)**](https://github.com/allaymaria/TyHM2/raw/main/Clase%205/Historia%20de%20distintos%20Elementos.pdf)
