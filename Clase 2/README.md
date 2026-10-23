@@ -60,4 +60,5 @@ La Inteligencia Artificial opera mediante algoritmos que procesan grandes volúm
 ### 🔗 Enlaces del Proyecto:
 * 📓 [**Gemini Notebook del Proyecto**](https://notebook.google.com/notebook/369b2340-8493-4327-87b3-d4b2dcb5c2b1)
 * 📄 [**Informe en Google Drive**](https://docs.google.com/document/d/1BVMNkAZpg1KXMMnJif_5F2o6qgVeGHtigqUSLsVtfko/edit?tab=t.0)
+* 📥 [**Descargar TP1 en formato LaTeX (.zip)**](https://github.com/allaymaria/TyHM2/raw/main/Clase%202/TP1.zip)
  
