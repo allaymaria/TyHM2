@@ -30,3 +30,8 @@ En esta clase se realizó una **puesta en común interactiva** de las distintas 
 
 5. **Construcción e Ingeniería de Casas Modulares:**
    * *Enfoque:* Soluciones habitacionales eficientes, industrialización de la construcción y optimización de costos/tiempos.
+
+---
+
+### 🔗 Enlaces del Proyecto:
+* 📥 [**Descargar Borrador del Proyecto en formato LaTeX (.zip)**](https://github.com/allaymaria/TyHM2/raw/main/Clase%202/TP1.zip)
