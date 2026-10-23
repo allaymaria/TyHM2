@@ -1,4 +1,4 @@
-Charla de una trabajadora de Conicet, trabaja en investigación. Tesis doctoral: Contingencia-Redes de Geometría Variable.
+Charla de una trabajadora de Conicet, Magdalena Day, trabaja en investigación. Tesis doctoral: Contingencia-Redes de Geometría Variable. La ciencia tiene diferentes criterios de evaluación si lo colocas junto a la Tecnología. La investigación pasa por validar en papers, plataformas (Orcid, Arxiv, GitHub, R^G).
 
 ¿Emprender o Investigar? 
 
