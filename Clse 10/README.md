@@ -4,7 +4,7 @@ Charla de una trabajadora de Conicet, Magdalena Day, trabaja en investigación. 
 
 Incubadora: para proyectos.
 
-Cuando vas trabajando con plataformas vas notando los problemas, los límites. 
+Cuando vas trabajando con plataformas vas notando los problemas, los límites.
 
 Si queres empezar a investigar comenzas con un problema fácil a solucionar y eso se va atando (quizás) con otros problemas.
 
@@ -15,3 +15,7 @@ MITMediaLab: Lugar interdisciplinar.
 Nicolás Negroponte - Ser Digital (libro)
 
 Startups // Bootstrapping
+
+Interdisciplinidad.
+
+Cuarta Revolución Industrial: IA
