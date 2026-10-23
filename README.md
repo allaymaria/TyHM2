@@ -13,7 +13,7 @@ Integrantes:
 |4|<https://github.com/allaymaria/TyHM2/tree/main/Clase%204>|
 |6|<https://github.com/allaymaria/TyHM2/tree/main/Clase%206>|
 
-## Modulo 2: Asistente de  Redacción con IA para planes y proyectos. Taller complementario fotografía forense digital.
+## Modulo 2: Asistente de  Redacción con IA para planes y proyectos 
 |**Clase**|**Links de GitHub**|
 |---------------------------|-----------------------|
 |2|<https://github.com/allaymaria/TyHM2/tree/main/Clase%202>|
@@ -21,16 +21,17 @@ Integrantes:
 |5|<https://github.com/allaymaria/TyHM2/tree/main/Clase%205>|
 |6|<https://github.com/allaymaria/TyHM2/tree/main/Clase%206>|
 
-## Modulo 3: SIG Sistemas de Información Geográfico
+## Modulo 3: Taller complementario fotografía forense digital
+|**Clase**|**Links de GitHub**|
+|---------------------------|-----------------------|
+||<>|
+||<>|
+
+## Modulo 4: SIG Sistemas de Información Geográfico
 |**Clase**|**Links de GitHub**|
 |---------------------------|-----------------------|
 |7|<https://github.com/allaymaria/TyHM2/tree/main/Clase%207>|
 |8|<https://github.com/allaymaria/TyHM2/tree/main/Clase%208>|
-
-## Modulo 4: Lenguaje SQL
-|**Clase**|**Links de GitHub**|
-|---------------------------|-----------------------|
-||<>|
 
 ## Modulo 5: Dinámica de Sistemas
 |**Clase**|**Links de GitHub**|
