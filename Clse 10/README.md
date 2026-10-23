@@ -10,4 +10,6 @@ Si queres empezar a investigar comenzas con un problema fácil a solucionar y es
 
 1962-Paul Baran-Guerra Fría-Problema: Mantener la comunicación ante un ataque nuclear-Modelo de red distribuida->Internet
 
-MITMediaLab
+MITMediaLab: Lugar interdisciplinar.
+
+Nicolás Negroponte - Ser Digital (libro)
