@@ -2,7 +2,7 @@
 
 ---
 
-## 🎯 Consigna 1: Aplicación del Proceso Analítico Jerárquico (AHP)
+## 🎯 Aplicación del Proceso Analítico Jerárquico (AHP)
 
 Seleccionar o plantear un capítulo/caso donde se presente un conflicto (en caso de no existir uno real, se debe proponer/inventar una situación hipotética) y desarrollar la toma de decisiones estructurada mediante los siguientes pasos:
 
@@ -43,7 +43,7 @@ Para el desarrollo interactivo y cálculo de matrices, utilizamos la plataforma 
 
 ---
 
-## 📷 Consigna 2: Metadatos EXIF y Edición Fotográfica
+## 📷 Metadatos EXIF y Edición Fotográfica
 
 * **Análisis de Fotografías:** Lectura e inspección de metadatos EXIF en las imágenes capturadas.
 * **Procesamiento de Imagen (GIMP):** Corrección visual de errores de iluminación o captura directos de la cámara.
@@ -52,12 +52,8 @@ Para el desarrollo interactivo y cálculo de matrices, utilizamos la plataforma 
 
 ---
 
-## 🏞️ Consigna 3: Relevamiento Fotográfico de Campo
-
+## 📝 Actividades para la Próxima Clase
+1. **Relevamiento Fotográfico de Campo**
 * Tomar fotografías en zonas, caminos o infraestructura propensas a eventuales problemas de **inundación**.
-
----
-
-## 💻 Consigna 4: Configuración de Software SIG
-
+2. **Configuración de Software SIG**
 * Descargar e instalar **QGIS** en el equipo de trabajo.
