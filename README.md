@@ -7,6 +7,7 @@ Integrantes:
 |Nancy Sara|<https://github.com/nancy-sara/TyHMII>|
 |Nicolás La Rocca|<>|
 ## Modulo 1: Toma de Decisiones
+**Resumen del Módulo** <>
 |**Clase**|**Links de GitHub**|
 |---------------------------|-----------------------|
 |1|<https://github.com/allaymaria/TyHM2/tree/main/Clase%201>|
