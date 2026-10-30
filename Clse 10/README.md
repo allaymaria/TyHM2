@@ -55,5 +55,5 @@ La clase se estructuró en dos ejes principales:
 ## 📝 Actividad para la Próxima Clase
 
 * **Consigna:** Elaborar un **resumen estructurado mediante una presentación en PowerPoint (PPT)** sobre los temas y conceptos abordados.
-* * **Bibliografía de Referencia:** *Generic Structures in Oscillating Systems I*.
-* * **Formato de Modelos (`.mdl`):** Extensión de archivo correspondiente a los modelos desarrollados en Vensim, estructurados internamente como archivos de texto plano.
+  * **Bibliografía de Referencia:** *Generic Structures in Oscillating Systems I*.
+  * **Formato de Modelos (`.mdl`):** Extensión de archivo correspondiente a los modelos desarrollados en Vensim, estructurados internamente como archivos de texto plano.
