@@ -15,7 +15,7 @@ Integrantes:
 |6|<https://github.com/allaymaria/TyHM2/tree/main/Clase%206>|
 
 ## Modulo 2: Asistente de  Redacción con IA para planes y proyectos 
-**Resumen del Módulo** <https://github.com/allaymaria/TyHM2/blob/main/Modulo2_TyH2.zip>
+**Resumen del Módulo** <https://github.com/allaymaria/TyHM2/blob/main/Modulo2_TyH2%20(1).zip>
 |**Clase**|**Links de GitHub**|
 |---------------------------|-----------------------|
 |2|<https://github.com/allaymaria/TyHM2/tree/main/Clase%202>|
