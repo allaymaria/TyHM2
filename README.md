@@ -29,6 +29,7 @@ Integrantes:
 |6|<https://github.com/allaymaria/TyHM2/tree/main/Clase%206>|
 
 ## Modulo 4: SIG Sistemas de Información Geográfico
+**Resumen del Módulo** <https://github.com/allaymaria/TyHM2/blob/main/Modulo4_TyH2.zip>
 |**Clase**|**Links de GitHub**|
 |---------------------------|-----------------------|
 |7|<https://github.com/allaymaria/TyHM2/tree/main/Clase%207>|
