@@ -56,4 +56,6 @@ La clase se estructuró en dos ejes principales:
 
 * **Consigna:** Elaborar un **resumen estructurado mediante una presentación en PowerPoint (PPT)** sobre los temas y conceptos abordados.
   * **Bibliografía de Referencia:** *Generic Structures in Oscillating Systems I*.
+      * > 📥 [**Descargar Ejemplos en Vensim (ZIP)**](https://github.com/allaymaria/TyHM2/raw/main/Clse%2010/vensim.zip)
   * **Formato de Modelos (`.mdl`):** Extensión de archivo correspondiente a los modelos desarrollados en Vensim, estructurados internamente como archivos de texto plano.
+
