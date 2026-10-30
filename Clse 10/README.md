@@ -1,33 +1,59 @@
-Charla de una trabajadora de Conicet, Magdalena Day, trabaja en investigación. Tesis doctoral: Contingencia-Redes de Geometría Variable. La ciencia tiene diferentes criterios de evaluación si lo colocas junto a la Tecnología. La investigación pasa por validar en papers, plataformas (Orcid, Arxiv, GitHub, R^G ResearchGate, Academia.edu). Cómo buscar papers: Contactos, convenios de institución, Universidad, ResearchGate (mandas solicitud y te los mandan por mail), Cicunc.
-
-**¿Emprender o Investigar?**
-
-Incubadora: para proyectos.
-
-Cuando vas trabajando con plataformas vas notando los problemas, los límites.
-
-Si queres empezar a investigar comenzas con un problema fácil a solucionar y eso se va atando (quizás) con otros problemas.
-
-1962-Paul Baran-Guerra Fría-Problema: Mantener la comunicación ante un ataque nuclear-Modelo de red distribuida->Internet
-
-MITMediaLab: Lugar interdisciplinar.
-
-Nicolás Negroponte - Ser Digital (libro)
-
-Startups // Bootstrapping
-
-Interdisciplinidad.
-
-Cuarta Revolución Industrial: Industria 4.0
-
-Investigación de Operaciones.
+# 📚 Clase 10: Investigación Científica, Innovación y Dinámica de Sistemas
 
 ---
 
-Raw Maps: Manejo del MTI para todas las cátedras.
+## 📌 Resumen de la Clase
 
-_Generic Structures in Oscillating Systems I_
+La clase se estructuró en dos ejes principales:
+1. **Charla Magistral (CONICET):** Exposición a cargo de la investigadora *Magdalena Day*, quien compartió su experiencia en el ámbito científico, el desarrollo de su tesis doctoral (*"Contingencia-Redes de Geometría Variable"*), los criterios de evaluación en ciencia frente a tecnología, y los canales formales e informales para la búsqueda y validación de bibliografía académica.
+2. **Dinámica de Sistemas (Vensim):** Introducción práctica al modelado dinámico, analizando casos históricos de redes distribuidas (como el origen de Internet) y avanzando en el uso del software Vensim PLE y sus archivos nativos (`.mdl`).
 
-Actividad para la próxima clase: Resumen con PPT. 
+---
 
-.mdl: Archivo model, es un archivo de texto.
+## 🔬 Charla CONICET: Investigación y Publicación Académica
+
+* **Disertante:** Magdalena Day (Investigadora CONICET).
+* **Tesis Doctoral:** *Contingencia-Redes de Geometría Variable*.
+* **Evaluación:** La ciencia y la tecnología poseen diferentes criterios de validación y impacto.
+* **Canales y Plataformas de Validación Académica:**
+  * Plataformas de perfil e indexación: *ORCID, arXiv, GitHub, ResearchGate, Academia.edu*.
+* **Estrategias para la Búsqueda de Papers:**
+  * Uso de redes de contactos y convenios institucionales de la Universidad.
+  * Solicitud directa a autores a través de *ResearchGate* (envío por correo electrónico).
+  * Acceso mediante bases de datos institucionales (ej. CICUNC).
+
+---
+
+## 💡 ¿Emprender o Investigar?
+
+* **Incubadoras:** Espacios de apoyo y aceleración para proyectos de base tecnológica o comercial.
+* **Dinámica de la Investigación:** La experiencia práctica con plataformas revela límites y problemas operativos que impulsan nuevas líneas de estudio. Se recomienda iniciar con problemas sencillos y acotados que, de manera progresiva, se conecten con desafíos más complejos.
+
+---
+
+## 🌐 Hitos y Conceptos Históricos
+
+* **Redes Distribuidas (1962):** 
+  * *Autor:* Paul Baran (en contexto de Guerra Fría).
+  * *Problema original:* Mantener la comunicación intacta ante un ataque nuclear.
+  * *Resultado tecnológico:* Bases conceptuales de lo que hoy conocemos como **Internet**.
+* **Interdisciplinidad e Innovación:**
+  * **MIT Media Lab:** Espacio emblemático de investigación interdisciplinaria.
+  * **Nicolás Negroponte:** Autor del libro *Ser Digital*.
+* **Modelos de Crecimiento:** 
+  * *Startups* y estrategias de *Bootstrapping* (financiación con recursos propios o mínimos externos).
+* **Entorno Actual:** Cuarta Revolución Industrial (**Industria 4.0**) e Investigación de Operaciones.
+
+---
+
+## 🛠️ Herramientas y Formatos Técnicos
+
+* **Raw Maps:** Manejo de herramientas geoespaciales transversales para las cátedras.
+* **Bibliografía de Referencia:** *Generic Structures in Oscillating Systems I*.
+* **Formato de Modelos (`.mdl`):** Extensión de archivo correspondiente a los modelos desarrollados en Vensim, estructurados internamente como archivos de texto plano.
+
+---
+
+## 📝 Actividad para la Próxima Clase
+
+* **Consigna:** Elaborar un **resumen estructurado mediante una presentación en PowerPoint (PPT)** sobre los temas y conceptos abordados.
