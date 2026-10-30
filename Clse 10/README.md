@@ -49,11 +49,11 @@ La clase se estructuró en dos ejes principales:
 ## 🛠️ Herramientas y Formatos Técnicos
 
 * **Raw Maps:** Manejo de herramientas geoespaciales transversales para las cátedras.
-* **Bibliografía de Referencia:** *Generic Structures in Oscillating Systems I*.
-* **Formato de Modelos (`.mdl`):** Extensión de archivo correspondiente a los modelos desarrollados en Vensim, estructurados internamente como archivos de texto plano.
 
 ---
 
 ## 📝 Actividad para la Próxima Clase
 
 * **Consigna:** Elaborar un **resumen estructurado mediante una presentación en PowerPoint (PPT)** sobre los temas y conceptos abordados.
+* * **Bibliografía de Referencia:** *Generic Structures in Oscillating Systems I*.
+* * **Formato de Modelos (`.mdl`):** Extensión de archivo correspondiente a los modelos desarrollados en Vensim, estructurados internamente como archivos de texto plano.
