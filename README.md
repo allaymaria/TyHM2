@@ -22,6 +22,7 @@ Integrantes:
 |3|<https://github.com/allaymaria/TyHM2/tree/main/Clase%203>|
 
 ## Modulo 3: Taller complementario fotografía forense digital
+**Resumen del Módulo** <https://github.com/allaymaria/TyHM2/blob/main/Modulo3_TyH2.zip>
 |**Clase**|**Links de GitHub**|
 |---------------------------|-----------------------|
 |5|<https://github.com/allaymaria/TyHM2/tree/main/Clase%205>|
