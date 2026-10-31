@@ -36,7 +36,7 @@ Integrantes:
 |8|<https://github.com/allaymaria/TyHM2/tree/main/Clase%208>|
 
 ## Modulo 5: Dinámica de Sistemas
-**Resumen del Módulo** <>
+**Resumen del Módulo** <https://github.com/allaymaria/TyHM2/blob/main/Modulo5_TyH2.zip>
 |**Clase**|**Links de GitHub**|
 |---------------------------|-----------------------|
 |9|<https://github.com/allaymaria/TyHM2/tree/main/Clase%209>|
