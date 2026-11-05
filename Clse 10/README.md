@@ -58,4 +58,4 @@ La clase se estructuró en dos ejes principales:
   * **Bibliografía de Referencia:** *Generic Structures in Oscillating Systems I*.
       * > 📥 [**Descargar Ejemplos en Vensim (ZIP)**](https://github.com/allaymaria/TyHM2/raw/main/Clse%2010/vensim.zip)
   * **Formato de Modelos (`.mdl`):** Extensión de archivo correspondiente a los modelos desarrollados en Vensim, estructurados internamente como archivos de texto plano.
-
+      * > 📄 [**Descargar Modelo de Empleabilidad (MDL)**](https://github.com/allaymaria/TyHM2/raw/main/Clse%2010/Modelo%20de%20Empleabilidad.mdl)
