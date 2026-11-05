@@ -6,8 +6,6 @@
 
 Durante esta clase profundizamos en el uso de **QGIS** para el procesamiento de imágenes satelitales en formato **GeoTIFF** y la creación de capas vectoriales (tanto de polígonos como de puntos de interés). Como caso de estudio práctico, realizamos un análisis comparativo de la cobertura nival en la Cordillera de los Andes centrales (Glaciar de las Lágrimas, Malargüe, Mendoza), evaluando el sitio del histórico accidente aéreo de los rugbiers uruguayos de 1972.
 
-- **Documentación del Trabajo Práctico:** [📄 Descargar Informe Técnico de Investigación y Análisis SIG (.pdf)](https://github.com/allaymaria/TyHM2/blob/main/Clase%208/AN%C3%81LISIS%20GEOGR%C3%81FICO%20CON%20QGIS.pdf)
-
 ---
 
 ## 🛰️ Introducción a QGIS y Imágenes GeoTIFF
@@ -22,5 +20,12 @@ Durante esta clase profundizamos en el uso de **QGIS** para el procesamiento de 
 
 Para obtener mediciones métricas exactas en metros cuadrados ($m^2$), se configuró el proyecto bajo un Sistema de Referencia de Coordenadas Proyectado:
 - **SRC:** UTM Zona 19S / WGS 84 (EPSG:32719).
+
+---
+
+### 🔗 Enlaces:
+- 📄 [**Informe Técnico de Investigación y Análisis SIG (PDF)**](https://raw.githubusercontent.com/allaymaria/TyHM2/main/Clase%208/AN%C3%81LISIS%20GEOGR%C3%81FICO%20CON%20QGIS.pdf)
+- 📦 [**ANÁLISIS GEOGRÁFICO CON QGIS (ZIP)**](https://raw.githubusercontent.com/allaymaria/TyHM2/main/Clase%208/AN%C3%81LISIS%20GEOGR%C3%81FICO%20CON%20QGIS.zip)
+- 🗜️ [**MEDICION NIEVE 2 (RAR)**](https://raw.githubusercontent.com/allaymaria/TyHM2/main/Clase%208/MEDICION%20NIEVE%202.rar)
 - **Digitalización Manual:** Creación de una capa vectorial de tipo polígono en un archivo *GeoPackage*, trazando vértice por vértice el contorno de la superficie nival.
 
