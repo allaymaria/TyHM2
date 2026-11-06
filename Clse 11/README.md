@@ -66,5 +66,6 @@ La **Dinámica de Sistemas** permite estudiar y comprender cómo se comportan lo
 
 ---
 
+### 🔗 Enlaces:
 - [📄 Código Informe Final Vensim para R (.txt)](https://github.com/allaymaria/TyHM2/raw/main/Clse%2011/codigo%20informe%20final%20vensim%20para%20R%20postit.txt)
 - [📄 Informe Final Vensim (.pdf)](https://github.com/allaymaria/TyHM2/raw/main/Clse%2011/vensim%20informe%20final.pdf)
