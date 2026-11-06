@@ -63,3 +63,8 @@ Se generó un intercambio de ideas y comentarios sobre los modelos, permitiendo 
 ## 🎯 Concepto Principal de la Clase
 
 La **Dinámica de Sistemas** permite estudiar y comprender cómo se comportan los sistemas a lo largo del tiempo mediante modelos matemáticos y simulaciones. Su aplicación facilita el análisis de relaciones entre variables, la identificación de patrones de comportamiento y la evaluación de posibles escenarios antes de intervenir sobre una situación real.
+
+---
+
+- [📄 Código Informe Final Vensim para R (.txt)](https://github.com/allaymaria/TyHM2/raw/main/Clse%2011/codigo%20informe%20final%20vensim%20para%20R%20postit.txt)
+- [📄 Informe Final Vensim (.pdf)](https://github.com/allaymaria/TyHM2/raw/main/Clse%2011/vensim%20informe%20final.pdf)
